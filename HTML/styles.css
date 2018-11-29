@@ -1,4 +1,9 @@
-body{background-color:orange;}
+body{
+
+background-color:orange;
+
+border-style: solid;
+}
 
 p{color: blue; font-family: Arial;}
 
@@ -13,3 +18,5 @@ ul{
   
   font-family:"Iskoola Pota";
 }
+
+hr{color: white;}
